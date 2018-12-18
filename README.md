@@ -6,3 +6,5 @@ Nesta competição, existem as toss-up question e as bonus questions. Cada equip
 Se a equipe acertar a toss-up, tem direito a uma bonus questions, nesta etapa, se errar, não perde pontos.
 
 O programa feito em python tem como entradas principais qual equipe acertou (1, 2 ou 0, sendo 0 atribuido caso nenhum equipe acerte), em seguida é perguntado a quantidade de pontos que esta equipe recebeu ou perdeu (-), em seguida se pergunta o mesmo em relação a questão bonus (também pode ser atribuído 0 caso não acerte). Ao final de cada rodada é exibido o placar atual e o contador de rodadas atualiza.
+
+OBS.: Para repassar o programa funcional para que todos da equipe pudessem usar, criou-se um .exe utilizando pyinstaller, dessa maneira, a última linha contém um input para o prompt só fechar após todos conseguirem ver o resultado final e apertarem enter.
