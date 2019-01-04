@@ -1,6 +1,9 @@
 # Marcador-placar-Petrobowl
 Petrobowl é uma competição internacional de conhecimentos na área de petróleo e gás, para as rodadas de treino da equipe da UFAM, foi desenvolvido um placar simples em python que automatizou o processo.
 
+## Instalação
+Este programa foi criado com o intuito de ser distribuído para pessoas da equipe que não tenham o [Python](https://www.python.org/) instalado em seus computadores. Desta forma, foi utilizado o [PyInstaller](http://www.pyinstaller.org/) para criar um executável.
+
 ## Como funciona o campeonato?
 Nesta competição, existem as toss-up question e as bonus questions. Cada equipe tem 5 segundos para apertar o buzzer e responder a toss-up, quem acertar recebe uma quantidade de pontos, porém se errar, os pontos são subtraídos do total da equipe.
 
