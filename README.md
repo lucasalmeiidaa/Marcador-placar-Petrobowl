@@ -4,6 +4,14 @@ Petrobowl é uma competição internacional de conhecimentos na área de petról
 ## Instalação
 Este programa foi criado com o intuito de ser distribuído para pessoas da equipe que não tenham o [Python](https://www.python.org/) instalado em seus computadores. Desta forma, foi utilizado o [PyInstaller](http://www.pyinstaller.org/) para criar um executável.
 
+### Obtendo o executável
+Para obter o arquivo `.exe`:
+
+**1)** Faça o download da pasta [Placar Petrobowl Executável](https://github.com/lucasalmeiidaa/Marcador_placar_Petrobowl/tree/master/Placar%20Petrobowl%20Execut%C3%A1vel).
+
+**2)** Copie o arquivo `placar_petrobowl` dentro da pasta `dist` e cole na área de trabalho.
+
+**3)** Execute o arquivo. 😊 
 ## Como funciona o campeonato?
 Nesta competição, existem as toss-up question e as bonus questions. Cada equipe tem 5 segundos para apertar o buzzer e responder a toss-up, quem acertar recebe uma quantidade de pontos, porém se errar, os pontos são subtraídos do total da equipe.
 
